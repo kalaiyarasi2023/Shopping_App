@@ -1,1 +1,3 @@
-# Shopping_App
+This is modified content using second version of repository...
+code block goes here
+// function stops goes here
