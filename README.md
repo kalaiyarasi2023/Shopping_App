@@ -1,1 +1,3 @@
-# Shopping_App
+This is changes from third version of Repository...
+code blocks chenges here..
+//function changes
